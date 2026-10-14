@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carlos",
+        "apellido": "Pérez",
+        "correo": "carlos.perez@email.com",
+        "telefono": "0991234567",
+        "carnet": "EST-2026-001",
+        "materia": "Matemáticas"
+    },
+    {
+        "id": 2,
+        "nombre": "María",
+        "apellido": "López",
+        "correo": "maria.lopez@email.com",
+        "telefono": "0997654321",
+        "carnet": "EST-2026-002",
+        "materia": "Literatura"
+    }
+]

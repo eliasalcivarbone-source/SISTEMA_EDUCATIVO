@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ana",
+        "apellido": "Gómez",
+        "correo": "ana.gomez@colegio.edu",
+        "telefono": "+593987654321",
+        "especialidad": "Física",
+        "titulo": "Magíster"
+    }
+]
